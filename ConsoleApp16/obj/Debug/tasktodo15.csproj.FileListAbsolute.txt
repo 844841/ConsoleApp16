@@ -1,0 +1,7 @@
+D:\Users\Admin\source\repos\ConsoleApp16\ConsoleApp16\bin\Debug\ConsoleApp16.exe.config
+D:\Users\Admin\source\repos\ConsoleApp16\ConsoleApp16\bin\Debug\ConsoleApp16.exe
+D:\Users\Admin\source\repos\ConsoleApp16\ConsoleApp16\bin\Debug\ConsoleApp16.pdb
+D:\Users\Admin\source\repos\ConsoleApp16\ConsoleApp16\obj\Debug\tasktodo15.csprojResolveAssemblyReference.cache
+D:\Users\Admin\source\repos\ConsoleApp16\ConsoleApp16\obj\Debug\tasktodo15.csproj.CoreCompileInputs.cache
+D:\Users\Admin\source\repos\ConsoleApp16\ConsoleApp16\obj\Debug\ConsoleApp16.exe
+D:\Users\Admin\source\repos\ConsoleApp16\ConsoleApp16\obj\Debug\ConsoleApp16.pdb
